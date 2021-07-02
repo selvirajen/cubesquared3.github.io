@@ -1,0 +1,6 @@
+apiversion:
+kind:
+metadata:
+  label:
+spec:
+  container:
